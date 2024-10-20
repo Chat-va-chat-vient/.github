@@ -1,12 +1,10 @@
-## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+# 🐾 Chat va Chat vient - Application et API 🐾
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Bienvenue sur **Chat va Chat vient**, une application de rencontres 🐱💕 pour chats. 
+
+😸🎉
+
+Le fichier figma de l'application : [Figma](https://www.figma.com/design/5QF74f4sBXPh1Pq9dBRWdm/ChatVaChatVient?node-id=7612-1367&t=XmdakVw8e44W6xjE-1)
+
